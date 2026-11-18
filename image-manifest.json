@@ -1,0 +1,21 @@
+{
+  "project": "Maíz Soul by Tía Yaya website assets",
+  "assets": [
+    {"path":"public/images/brand/maiz-soul-logo.png","url":"https://img.cdn4dd.com/cdn-cgi/image/fit%3Dcontain%2Cwidth%3D1200%2Cheight%3D672%2Cformat%3Dauto/https%3A/doordash-static.s3.amazonaws.com/media/restaurant/cover_square/51abb0e5-55bc-440b-b78f-8141e3f3f22b.png"},
+    {"path":"public/images/hero/hero-patacones.jpg","url":"https://doordash-static.s3.amazonaws.com/media/store/header/8f5e03f5-4deb-4dc3-9c2c-d555b3e0599a.JPG"},
+    {"path":"public/images/drinks/chicha-brand-cup.jpg","url":"https://153396011.cdn6.editmysite.com/uploads/1/5/3/3/153396011/SICY7M7TDZ7BPFGA4CUZHXGA.jpeg"},
+    {"path":"public/images/food/pulled-pork-sandwich.jpg","url":"https://img05.restaurantguru.com/rf53-Maiz-Soul-by-Tia-Yaya-pulled-pork-sandwich.jpg"},
+    {"path":"public/images/food/hamburguesa-tia-yaya.jpg","url":"https://img05.restaurantguru.com/r24f-Maiz-Soul-by-Tia-Yaya-burger.jpg"},
+    {"path":"public/images/food/maiz-soul-food-wide.jpg","url":"https://img05.restaurantguru.com/r958-Maiz-Soul-by-Tia-Yaya-food-2026-08.jpg"},
+    {"path":"public/images/food/maiz-soul-plate.jpg","url":"https://img05.restaurantguru.com/raa1-Maiz-Soul-by-Tia-Yaya-food.jpg"},
+    {"path":"public/images/food/maiz-soul-meals.jpg","url":"https://img05.restaurantguru.com/r786-Maiz-Soul-by-Tia-Yaya-meals.jpg"},
+    {"path":"public/images/food/maiz-soul-dishes.jpg","url":"https://img05.restaurantguru.com/rfac-Maiz-Soul-by-Tia-Yaya-dishes.jpg"},
+    {"path":"public/images/food/maiz-soul-dishes-april.jpg","url":"https://img05.restaurantguru.com/r12e-dishes-Maiz-Soul-by-Tia-Yaya-2026-04.jpg"}
+  ],
+  "palette": {"primaryGreen":"#49633B","goldenCorn":"#F2C16B","warmCream":"#FFF8E9","terracotta":"#B96643","darkEspresso":"#30291F"},
+  "notes": {
+    "hero": "Local file was replaced with a high-resolution crop of the original source photo.",
+    "food": "The four old Weebly-derived food photos were deleted and replaced on the main page with real RestaurantGuru photos.",
+    "restaurantGuruPhotos": "Seven real food photos were sourced from the restaurant's RestaurantGuru page and now appear across the featured, breakfast, dessert and gallery sections."
+  }
+}
